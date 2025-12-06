@@ -106,8 +106,3 @@ server <- function(input, output, session) {
 }
 
 shinyApp(ui = ui, server = server)
-
-install.packages('rsconnect')
-library(rsconnect)
-rsconnect::setAccountInfo(name='zora', token='C8D146FB16726C46BCB2CAB27C31DE8D', secret='mw7cRqttRrkFoppnAikLwOqEGlj1tjF/2Lslq8zL')
-rsconnect::deployApp('/Users/themore66/Desktop/25- 26 Fall MS UNL/STAT850 Computing Tools/251201 Week15/shiny-themore0612/Cocktail_Z')

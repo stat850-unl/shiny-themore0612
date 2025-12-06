@@ -1,0 +1,12 @@
+name: cocktail_z
+title: Cocktail_Z
+username: zora
+account: zora
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16254023
+bundleId: 11283006
+url: https://zora.shinyapps.io/cocktail_z/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
